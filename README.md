@@ -66,6 +66,15 @@ Bu proje sayesinde veri tabanı işlemlerini ve C# ile veri akışını daha iyi
 
 ---
 
+## 🍽️ 10 - Database Crud  
+Bu projede temel CRUD işlemlerini (ekleme, listeleme, güncelleme, silme) kullanarak bir menü yönetim sistemi geliştirdim.  
+C# ile SQL veritabanı arasında bağlantı kurarak ürün ve kategori bilgilerini dinamik şekilde yönettim.  
+Kullanıcı; yeni ürün ekleyebilir, mevcut kayıtları güncelleyebilir veya silebilir.  
+Bu proje sayesinde veri kaydetme, sorgulama ve güncelleme işlemleri konusunda ileri düzey pratik kazandım.  
+Ayrıca, sistemin işleyişini yöneterek daha etkileşimli ve kullanışlı bir yapı oluşturmayı öğrendim. 📊
+
+---
+
 ## 🚀 Kazanımlar
 Bu projeler sayesinde:  
 - C# dilinin temellerini öğrenip pekiştirdim.  
